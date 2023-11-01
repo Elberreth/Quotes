@@ -1,1 +1,3 @@
- Of course, bad code can be cleaned up. But it's very expensive." - Robert C. Martin 
+Of course, bad code can be cleaned up. But it's very expensive." - Robert C. Martin
+
+It’s not a bug; it’s an undocumented feature. ― Anonymous 
