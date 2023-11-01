@@ -5,3 +5,6 @@ It’s not a bug; it’s an undocumented feature. ― Anonymous
 Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman
 
 No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― Ram Ray
+
+Experience is the name everyone gives to their mistakes. – Oscar Wilde
+
