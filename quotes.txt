@@ -1,3 +1,5 @@
 Of course, bad code can be cleaned up. But it's very expensive." - Robert C. Martin
 
 It’s not a bug; it’s an undocumented feature. ― Anonymous 
+
+Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman
